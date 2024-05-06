@@ -1,0 +1,12 @@
+.list {
+  padding: 0;
+  margin-left: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

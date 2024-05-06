@@ -1,0 +1,9 @@
+.form {
+  margin-left: 20px;
+  display: flex;
+  gap: 4px;
+}
+
+.input {
+  font: inherit;
+}
